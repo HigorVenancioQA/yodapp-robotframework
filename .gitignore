@@ -1,0 +1,26 @@
+# Dependências do Node.js
+node_modules/
+
+# Ambientes virtuais
+venv/
+robot-env/
+
+# Logs
+logs/
+
+# Arquivos de configuração locais
+.idea/
+.vscode/
+
+
+# Arquivos temporários
+*.log
+*.tmp
+
+
+# Arquivos do sistema operacional
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# Diretórios de teste específicos
+tests/results/
